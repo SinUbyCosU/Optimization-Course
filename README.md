@@ -9,8 +9,14 @@ This repository stores a single, self-contained notebook named `visuals.ipynb`. 
 
 ## Getting Started
 
-1. Create (or activate) a Python 3 environment with the packages used inside the notebook (`numpy`, `matplotlib`, `scipy`).
-2. Launch JupyterLab/VS Code, open `visuals.ipynb`, and run cells sequentially. Each experiment section has a markdown header explaining what the forthcoming plots represent.
+1. Create (or activate) a Python 3 environment with the packages used inside the notebook.
+2. Install the minimal dependencies:
+
+	```bash
+	pip install numpy matplotlib scipy
+	```
+
+3. Launch JupyterLab/VS Code, open `visuals.ipynb`, and run cells sequentially. Each experiment section has a markdown header explaining what the forthcoming plots represent.
 
 ## Repository Flow
 
