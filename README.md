@@ -1,5 +1,4 @@
 # Optimization Course Visuals
-
 This repository stores a single, self-contained notebook named `visuals.ipynb`. The notebook bundles a set of geometric experiments and dashboards that illustrate different optimization concepts:
 
 1. **Hessian intuition** – surfaces demonstrating how eigenvalue signs, magnitudes, and zeros change local curvature.
