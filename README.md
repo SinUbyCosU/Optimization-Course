@@ -8,7 +8,6 @@ This repository stores a single, self-contained notebook named `visuals.ipynb`. 
 4. **Linear-programming dashboards** – simplex-style feasible regions, sensitivity shifts, and infeasible scenario diagnostics.
 
 ## Getting Started
-
 1. Create (or activate) a Python 3 environment with the packages used inside the notebook.
 2. Install the minimal dependencies:
 
