@@ -18,6 +18,5 @@ This repository stores a single, self-contained notebook named `visuals.ipynb`. 
 3. Launch JupyterLab/VS Code, open `visuals.ipynb`, and run cells sequentially. Each experiment section has a markdown header explaining what the forthcoming plots represent.
 
 ## Repository Flow
-
 - Keep upstream changes small and review the rendered plots before committing.
 - When updating the notebook, re-run the affected experiments so saved outputs stay in sync with code.
