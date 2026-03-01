@@ -19,3 +19,4 @@ This repository stores a single, self-contained notebook named `visuals.ipynb`. 
 - Keep upstream changes small and review the rendered plots before committing.
 - When updating the notebook, re-run the affected experiments so saved outputs stay in sync with code.
 ## The remaining files are course class code files
+The files explore the topics that the visuals are based on
