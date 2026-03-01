@@ -18,3 +18,4 @@ This repository stores a single, self-contained notebook named `visuals.ipynb`. 
 ## Repository Flow
 - Keep upstream changes small and review the rendered plots before committing.
 - When updating the notebook, re-run the affected experiments so saved outputs stay in sync with code.
+## The remaining files are course class code files
