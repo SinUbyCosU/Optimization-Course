@@ -1,6 +1,5 @@
 # Optimization Course Visuals
 This repository stores a single, self-contained notebook named `visuals.ipynb`. The notebook bundles a set of geometric experiments and dashboards that illustrate different optimization concepts:
-
 1. **Hessian intuition** – surfaces demonstrating how eigenvalue signs, magnitudes, and zeros change local curvature.
 2. **Degenerate and deceptive critical points** – quick comparisons via reusable plotting helpers.
 3. **Constraint geometry** – scenes covering linear tangency, non-convex objectives, and curved feasible boundaries.
